@@ -1,0 +1,4 @@
+THis are the steps followed by :
+D1--a
+D2 ----b
+D3---c
